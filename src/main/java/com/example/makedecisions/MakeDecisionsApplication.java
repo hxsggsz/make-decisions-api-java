@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class MakeDecisionsApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(MakeDecisionsApplication.class, args);
+        SpringApplication.run(MakeDecisionsApplication.class, args);
 	}
 
 }
